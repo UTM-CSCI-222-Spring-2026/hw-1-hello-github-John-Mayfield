@@ -1,7 +1,7 @@
 /**
  * @file hello.cpp
- * @author your name (you@domain.com)
- * @brief 
+ * @author jmayfi17@John-Mayfield
+ * @brief Hello world git commands
  */
 #include <iostream>
 
@@ -9,5 +9,5 @@ using namespace std;
 
 int main()
 {
-    // YOUR CODE HERE
+    cout << "Hello, world!" << endl;
 }
